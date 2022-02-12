@@ -1,1 +1,2 @@
 Change1 – on remote git
+Change3 – commit with message as “Change3 in RemoteFile”
